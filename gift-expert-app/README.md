@@ -1,3 +1,11 @@
+#React App that shows GIF images
+
+
+https://react-gif-app-jpp.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e408300-76f8-4732-9f22-79e1287d5bc9/deploy-status)](https://app.netlify.com/sites/react-gif-app-jpp/deploys)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
